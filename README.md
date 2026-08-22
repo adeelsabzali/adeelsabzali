@@ -22,7 +22,7 @@
 
 ## About Me
 
-I'm a backend-focused engineering leader with over 10 years of experience designing, building, and shipping full-stack products. I currently serve as **AVP & Backend Lead at Tekrevol**, where I lead a team of backend and full-stack developers and have delivered 50+ end-to-end projects since 2014 across e-commerce, fintech, healthcare, SaaS, real estate, and automotive.
+I'm a backend-focused engineering leader with over 10+ years of experience designing, building, and shipping full-stack products. I currently serve as **AVP & Backend Lead at Tekrevol**, where I lead a team of backend and full-stack developers and have delivered 50+ end-to-end projects since 2014 across e-commerce, fintech, healthcare, SaaS, real estate, and automotive.
 
 My work spans backend architecture, API design, and DevOps, along with hands-on full-stack delivery across web and mobile.
 
